@@ -4,4 +4,4 @@ Com as informações disponíveis no [Kaggle] (https://www.kaggle.com/datasets/e
 
 ![image](https://github.com/IamAyla/EDA_barragnes/assets/107047181/478f6c63-9bff-48fb-a54a-fe062138436c)
 
-A partir deste tipo de análise é possível nortear políticas públicas de fiscalização, priorizando estados com maior incidência de barragnes com dano potencial alto e evitar novos acidentes como em Mariana (MG) e Brumadinho (MG).
+A partir deste tipo de análise é possível nortear políticas públicas de fiscalização, priorizando estados com maior incidência de barragens com dano potencial alto e evitar novos acidentes como em Mariana (MG) e Brumadinho (MG).
